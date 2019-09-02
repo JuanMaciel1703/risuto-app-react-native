@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/juan/projects/risuto-app/Risuto/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
+            "outputFile": "/home/juan/projects/risuto-app-react-native/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
             "map": [
                 {
                     "source": "/home/juan/.gradle/caches/transforms-2/files-2.1/7809dad77d1dc0bdbbecba55c45aec76/res/values-zh-rTW/values-zh-rTW.xml",

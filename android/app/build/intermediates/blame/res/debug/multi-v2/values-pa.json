@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/juan/projects/risuto-app/Risuto/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml",
+            "outputFile": "/home/juan/projects/risuto-app-react-native/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml",
             "map": [
                 {
                     "source": "/home/juan/.gradle/caches/transforms-2/files-2.1/297ff14c4be227f8d8d622891749c856/res/values-pa/values-pa.xml",
